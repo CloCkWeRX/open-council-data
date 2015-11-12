@@ -23,6 +23,10 @@ This is an open collaboration between councils, Open Knowledge Australia, and ot
 This is an open collaboration between councils, Open Knowledge Australia, and other interested participants. [Steve Bennett](http://stevebennett.me) (Open Knowledge) and Will McIntosh (City of Melbourne) are currently leading the effort.
 
 ### How councils can get started
+As part of your decision making processess around which kinds of data provide the maximum benefit, there are a number of [case studies](https://toolkit.data.gov.au/index.php?title=Case_Studies_and_Data_Portals) available.
+
+Once you have identified what you wish to publish:
+
 * Adopt an Open Data policy
   - Download and adapt a template policy (links to come)
 * [Create a data.gov.au account](https://toolkit.data.gov.au/index.php?title=Starting_on_datagovau#Getting_an_Account)
